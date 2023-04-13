@@ -1,5 +1,5 @@
 ###############################################
-# Coded By HunterSl4d3                                                                        #
+# Coded By Naim Hassan                                                                       #
 # A Product Of Brute-Force 71                                                                       #
 # https://github.com/Brute-force71/                                                        #
 # You Have No Permission To Copy Any Code or Edit This Tool     #
@@ -38,7 +38,7 @@ def logo():
 def logout():
     psb("\n\033[92m    [*] Thanks For Using Our Tool..")
     psb("    [*] For More Tools, Visit : \n")
-    psb("      [ https://github.com/Toxic-Noob ]\n")
+    psb("      [ https://github.com/Brute-Force71 ]\n")
     sys.exit()
 
 def ver_check():
